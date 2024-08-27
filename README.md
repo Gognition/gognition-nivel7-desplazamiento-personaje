@@ -1,6 +1,6 @@
 # Nivel 7: Creemos un mini juego - desplazamiento del personaje
 
-¡Bienvenid@! Este repositorio acompaña al tutorial "Creemos un mini juego - desplazamiento del personaje" de nuestro canal de YouTube, donde aprendemos a crear un juego básico utilizando Go y la biblioteca Ebitengine.
+¡Bienvenid@! Este repositorio acompaña al tutorial "Creemos un mini juego - desplazamiento del personaje" en gognition.pro, donde aprendemos a crear un juego básico utilizando Go y la biblioteca Ebitengine.
 
 ## 📋 Descripción
 
